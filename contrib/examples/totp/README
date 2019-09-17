@@ -1,0 +1,7 @@
+WireGuard TOTP
+==============
+
+This is a simple server to authenticate a client with an TOTP before granting it
+access to the network.
+
+License: MIT

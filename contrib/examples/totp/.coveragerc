@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit =
+    venv/*
+
+[report]
+exclude_lines =
+    raise NotImplementedError
+    pragma: nocover
+    if __name__ == '__main__'
